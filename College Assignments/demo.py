@@ -1,0 +1,10 @@
+print("Enter your full name=")
+var1=input()
+print("Enter your age=")
+var2=input()
+print("Enter your school name=")
+var3=input()
+print("Enter the place where u live=")
+var4=input()
+print('''MMMMMMMMMMMMMUUUUUUUUUUUUUUMMMMMMMMMMMMMMMMMMYYYYYYYYYYYYYYY,DDDDDDDDDHHHHHHHHHOOOOOOOLLLLLLLYYYYYYAAAAAA
+BBBBBBBAAAAAAAAPPPPPPPPYYYYYAAAAAAAA''')
